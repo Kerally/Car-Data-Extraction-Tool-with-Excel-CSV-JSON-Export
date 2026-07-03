@@ -1,0 +1,394 @@
+[
+    {
+        "name": "BYD Atto 3",
+        "cost": "199900",
+        "year": "2022",
+        "mileage": "65000",
+        "rekkevidde": "420",
+        "img": "https://images.finncdn.no/dynamic/default/item/449524313/454fdf00-4293-45df-ba0c-5ae0c34e856b"
+    },
+    {
+        "name": "Tesla Model 3",
+        "cost": "389000",
+        "year": "2024",
+        "mileage": "45000",
+        "rekkevidde": "629",
+        "img": "https://images.finncdn.no/dynamic/default/item/468803591/fbab5697-631a-4451-b75c-46049033a23e"
+    },
+    {
+        "name": "Tesla Model 3",
+        "cost": "299000",
+        "year": "2021",
+        "mileage": "43000",
+        "rekkevidde": "580",
+        "img": "https://images.finncdn.no/dynamic/default/item/468803572/f4f4dc40-710f-4c8a-b805-2fa5380945d5"
+    },
+    {
+        "name": "Tesla Model 3",
+        "cost": "5695",
+        "year": "2023",
+        "mileage": "28000",
+        "rekkevidde": "491",
+        "img": "https://images.finncdn.no/dynamic/default/item/468802239/c00f8d5d-9913-42bb-8ca9-07423bf79285"
+    },
+    {
+        "name": "Polestar 2",
+        "cost": "599900",
+        "year": "2026",
+        "mileage": "2000",
+        "rekkevidde": "559",
+        "img": "https://images.finncdn.no/dynamic/default/item/468803611/6fc5b801-a46f-4b1f-83e2-d7b8f8dd67b0"
+    },
+    {
+        "name": "Tesla Model 3",
+        "cost": "309900",
+        "year": "2023",
+        "mileage": "20700",
+        "rekkevidde": "491",
+        "img": "https://images.finncdn.no/dynamic/default/item/467955722/7143475c-a017-4d40-8ea4-11b34a9a9f73"
+    },
+    {
+        "name": "Hyundai Ioniq 5",
+        "cost": "344900",
+        "year": "2023",
+        "mileage": "60400",
+        "rekkevidde": "454",
+        "img": "https://images.finncdn.no/dynamic/default/item/467854666/8fae89b3-43ec-4b50-96e1-114a801f5721"
+    },
+    {
+        "name": "MG ZS EV",
+        "cost": "219900",
+        "year": "2022",
+        "mileage": "44300",
+        "rekkevidde": "440",
+        "img": "https://images.finncdn.no/dynamic/default/item/468411392/92a0d92c-9910-4366-81cd-ac3743e8b6a7"
+    },
+    {
+        "name": "Volkswagen Golf",
+        "cost": "139900",
+        "year": "2018",
+        "mileage": "97400",
+        "rekkevidde": "",
+        "img": "https://images.finncdn.no/dynamic/default/item/468803407/9ffbbbd2-ce60-428a-b3ee-81649ca01f9d"
+    },
+    {
+        "name": "Tesla Model S",
+        "cost": "125532",
+        "year": "2015",
+        "mileage": "223000",
+        "rekkevidde": "",
+        "img": "https://images.finncdn.no/dynamic/default/item/468801628/290ff156-92ed-404a-a183-4efc2c196267"
+    },
+    {
+        "name": "Skoda Enyaq",
+        "cost": "309000",
+        "year": "2023",
+        "mileage": "120753",
+        "rekkevidde": "506",
+        "img": "https://images.finncdn.no/dynamic/default/item/468803353/c5cc29f3-c73e-45ff-84a6-f6bfa132dc98"
+    },
+    {
+        "name": "Volvo EX30",
+        "cost": "388500",
+        "year": "2025",
+        "mileage": "26700",
+        "rekkevidde": "450",
+        "img": "https://images.finncdn.no/dynamic/default/item/468803248/3e6f6dee-139f-4363-b88c-2156566591b9"
+    },
+    {
+        "name": "Tesla Model Y",
+        "cost": "319000",
+        "year": "2022",
+        "mileage": "94000",
+        "rekkevidde": "542",
+        "img": "https://images.finncdn.no/dynamic/default/item/468803204/e203b922-9d2d-48fc-8441-134266d8adf3"
+    },
+    {
+        "name": "Mercedes-Benz B-Klasse",
+        "cost": "65000",
+        "year": "2017",
+        "mileage": "18000",
+        "rekkevidde": "",
+        "img": "https://images.finncdn.no/dynamic/default/item/468803202/696a176f-b263-4511-8c83-b2bf27debeff"
+    },
+    {
+        "name": "Kia Niro",
+        "cost": "289000",
+        "year": "2024",
+        "mileage": "15800",
+        "rekkevidde": "460",
+        "img": "https://images.finncdn.no/dynamic/default/item/468802820/d54431b3-e57f-4b99-9988-234c2e9d5c40"
+    },
+    {
+        "name": "Volkswagen ID.7",
+        "cost": "579900",
+        "year": "2026",
+        "mileage": "6000",
+        "rekkevidde": "571",
+        "img": "https://images.finncdn.no/dynamic/default/item/468802546/d44255c8-25f3-4529-bdd7-e3b3a692983e"
+    },
+    {
+        "name": "Polestar 3",
+        "cost": "869000",
+        "year": "2025",
+        "mileage": "2400",
+        "rekkevidde": "554",
+        "img": "https://images.finncdn.no/dynamic/default/item/468802501/b88a25ba-3702-46cf-82cc-e47d987270a0"
+    },
+    {
+        "name": "Hyundai Ioniq 5",
+        "cost": "304900",
+        "year": "2022",
+        "mileage": "85560",
+        "rekkevidde": "",
+        "img": "https://images.finncdn.no/dynamic/default/item/468802450/941d1fa7-ddaf-48bf-9ef6-c9244c050b66"
+    },
+    {
+        "name": "Mercedes-Benz EQV300",
+        "cost": "390000",
+        "year": "2020",
+        "mileage": "70000",
+        "rekkevidde": "345",
+        "img": "https://images.finncdn.no/dynamic/default/item/388674067/1277a45b-456d-4eaf-a581-d8770408f40c"
+    },
+    {
+        "name": "Lexus RZ450e",
+        "cost": "404900",
+        "year": "2024",
+        "mileage": "66688",
+        "rekkevidde": "435",
+        "img": "https://images.finncdn.no/dynamic/default/item/468802403/c8c99e6f-a429-4aca-a623-f04a3b4eed25"
+    },
+    {
+        "name": "Hyundai Ioniq 5",
+        "cost": "359532",
+        "year": "2022",
+        "mileage": "55200",
+        "rekkevidde": "460",
+        "img": "https://images.finncdn.no/dynamic/default/item/468802376/682e6ec4-db23-4670-94ca-ad746c0ce61a"
+    },
+    {
+        "name": "Hyundai Kona",
+        "cost": "229000",
+        "year": "2020",
+        "mileage": "47000",
+        "rekkevidde": "449",
+        "img": "https://images.finncdn.no/dynamic/default/item/468802283/d5781fd6-1d26-4a17-8896-e63b39766810"
+    },
+    {
+        "name": "Ford Mustang Mach-E",
+        "cost": "348500",
+        "year": "2022",
+        "mileage": "49500",
+        "rekkevidde": "610",
+        "img": "https://images.finncdn.no/dynamic/default/item/468802388/c655599f-3592-42a4-8a1b-bf0e5870ed05"
+    },
+    {
+        "name": "BMW iX1",
+        "cost": "459000",
+        "year": "2023",
+        "mileage": "25500",
+        "rekkevidde": "422",
+        "img": "https://images.finncdn.no/dynamic/default/item/468802237/a7e6ee66-eaf2-4ac0-98ee-1017887db5f2"
+    },
+    {
+        "name": "VOYAH Courage",
+        "cost": "409900",
+        "year": "2025",
+        "mileage": "9270",
+        "rekkevidde": "446",
+        "img": "https://images.finncdn.no/dynamic/default/item/468802143/18a9b779-963d-43d8-8724-38802f174448"
+    },
+    {
+        "name": "Audi Q8 e-tron",
+        "cost": "649000",
+        "year": "2024",
+        "mileage": "40126",
+        "rekkevidde": "525",
+        "img": "https://images.finncdn.no/dynamic/default/item/468802139/cce329cc-f6ab-4711-b37c-6430be861b4c"
+    },
+    {
+        "name": "Skoda Enyaq Coupe RS",
+        "cost": "424900",
+        "year": "2023",
+        "mileage": "36428",
+        "rekkevidde": "516",
+        "img": "https://images.finncdn.no/dynamic/default/item/468802095/e2894324-16af-4871-84a5-606db80aba9c"
+    },
+    {
+        "name": "Volkswagen ID.4 GTX",
+        "cost": "389900",
+        "year": "2023",
+        "mileage": "38150",
+        "rekkevidde": "493",
+        "img": "https://images.finncdn.no/dynamic/default/item/468802098/69ad3e0b-0480-4a15-80e5-9779c027f8f0"
+    },
+    {
+        "name": "Citroen E-C4",
+        "cost": "219000",
+        "year": "2023",
+        "mileage": "57974",
+        "rekkevidde": "357",
+        "img": ""
+    },
+    {
+        "name": "Volkswagen ID.7",
+        "cost": "419000",
+        "year": "2024",
+        "mileage": "35700",
+        "rekkevidde": "613",
+        "img": "https://images.finncdn.no/dynamic/default/item/468801903/0fbbcf2a-93d3-499f-aef0-6f04cd87fb62"
+    },
+    {
+        "name": "Tesla Model Y",
+        "cost": "359990",
+        "year": "2023",
+        "mileage": "78000",
+        "rekkevidde": "533",
+        "img": "https://images.finncdn.no/dynamic/default/item/468801839/458a931f-ee85-45dd-b58c-6964b0ccfc04"
+    },
+    {
+        "name": "Volvo C40",
+        "cost": "419900",
+        "year": "2023",
+        "mileage": "39000",
+        "rekkevidde": "444",
+        "img": "https://images.finncdn.no/dynamic/default/item/468801678/a72e8f52-7855-4578-b340-a2167904621c"
+    },
+    {
+        "name": "Hyundai Ioniq 5",
+        "cost": "379900",
+        "year": "2023",
+        "mileage": "60050",
+        "rekkevidde": "481",
+        "img": "https://images.finncdn.no/dynamic/default/item/468122385/8ff42b0d-269c-4157-8189-7e049db83ff9"
+    },
+    {
+        "name": "Volkswagen ID.3",
+        "cost": "339000",
+        "year": "2026",
+        "mileage": "7900",
+        "rekkevidde": "430",
+        "img": "https://images.finncdn.no/dynamic/default/item/468801251/1d5ddf8b-e42c-4885-8a0c-df25145b4e63"
+    },
+    {
+        "name": "Fiat 500",
+        "cost": "219900",
+        "year": "2023",
+        "mileage": "13260",
+        "rekkevidde": "321",
+        "img": "https://images.finncdn.no/dynamic/default/item/467451296/695af0d7-0cce-4361-9469-1f6e7e5e32c9"
+    },
+    {
+        "name": "Polestar 2",
+        "cost": "519900",
+        "year": "2026",
+        "mileage": "35",
+        "rekkevidde": "583",
+        "img": "https://images.finncdn.no/dynamic/default/item/467093545/ef7c0c6c-3bcc-4540-bc53-89db0682ad57"
+    },
+    {
+        "name": "Volkswagen ID.3",
+        "cost": "279000",
+        "year": "2024",
+        "mileage": "38212",
+        "rekkevidde": "430",
+        "img": "https://images.finncdn.no/dynamic/default/item/468801202/34a69652-dbf5-4e08-89d9-bbdbf9bd3aa3"
+    },
+    {
+        "name": "Volkswagen ID.3",
+        "cost": "319000",
+        "year": "2025",
+        "mileage": "21837",
+        "rekkevidde": "429",
+        "img": "https://images.finncdn.no/dynamic/default/item/468801164/f62c96f8-00db-4467-90f3-c7bb0da6a605"
+    },
+    {
+        "name": "Audi e-tron",
+        "cost": "275000",
+        "year": "2020",
+        "mileage": "93456",
+        "rekkevidde": "440",
+        "img": "https://images.finncdn.no/dynamic/default/item/453375191/71ac6c14-1b7d-4e84-8d7a-a048408efd30"
+    },
+    {
+        "name": "Tesla Model S",
+        "cost": "679000",
+        "year": "2023",
+        "mileage": "12000",
+        "rekkevidde": "634",
+        "img": "https://images.finncdn.no/dynamic/default/item/468800834/e7e547fd-aad3-44d1-8695-2c70a136df7c"
+    },
+    {
+        "name": "Ford Mustang Mach-E",
+        "cost": "338500",
+        "year": "2023",
+        "mileage": "45500",
+        "rekkevidde": "440",
+        "img": "https://images.finncdn.no/dynamic/default/item/468800826/9d591979-de11-421f-a39c-08f7016fc513"
+    },
+    {
+        "name": "Mercedes-Benz EQC400",
+        "cost": "324532",
+        "year": "2020",
+        "mileage": "90000",
+        "rekkevidde": "417",
+        "img": "https://images.finncdn.no/dynamic/default/item/468249696/140c7e97-fc2b-43da-94d3-dd7233980ad0"
+    },
+    {
+        "name": "Toyota bZ4X",
+        "cost": "314900",
+        "year": "2023",
+        "mileage": "61500",
+        "rekkevidde": "503",
+        "img": "https://images.finncdn.no/dynamic/default/item/468800708/a357fc76-056e-4f06-a89c-7d9e0ffb1fd8"
+    },
+    {
+        "name": "Ford Mustang Mach-E",
+        "cost": "339800",
+        "year": "2021",
+        "mileage": "49264",
+        "rekkevidde": "610",
+        "img": "https://images.finncdn.no/dynamic/default/item/468800707/f3abdd0b-5136-4d26-9bbf-d03f5ff893e0"
+    },
+    {
+        "name": "Toyota bZ4X",
+        "cost": "364800",
+        "year": "2024",
+        "mileage": "26500",
+        "rekkevidde": "461",
+        "img": "https://images.finncdn.no/dynamic/default/item/468800619/6c91c414-3b58-4fbe-b941-8427a574ae6c"
+    },
+    {
+        "name": "Toyota bZ4X",
+        "cost": "388900",
+        "year": "2023",
+        "mileage": "27000",
+        "rekkevidde": "459",
+        "img": "https://images.finncdn.no/dynamic/default/item/468800661/9bdb2c56-472d-4d8b-85b4-6aa1566aa10a"
+    },
+    {
+        "name": "Audi e-tron Sportback",
+        "cost": "339000",
+        "year": "2021",
+        "mileage": "68337",
+        "rekkevidde": "409",
+        "img": "https://images.finncdn.no/dynamic/default/item/468800527/9ba8c565-830d-4e41-8396-7cb440c69039"
+    },
+    {
+        "name": "Maxus Euniq 6",
+        "cost": "239900",
+        "year": "2022",
+        "mileage": "35000",
+        "rekkevidde": "354",
+        "img": "https://images.finncdn.no/dynamic/default/item/468800516/2096819b-5d5a-4f2b-8692-b402a475cee1"
+    },
+    {
+        "name": "Hongqi E-HS9",
+        "cost": "373532",
+        "year": "2022",
+        "mileage": "69960",
+        "rekkevidde": "465",
+        "img": "https://images.finncdn.no/dynamic/default/item/468150528/3f983925-2066-44c6-9097-ebe7c302fefa"
+    }
+]
